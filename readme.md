@@ -23,5 +23,5 @@ To get started with Noter, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/someshshewalkar/noter.git
+   git clone https://github.com/someshshewalkar/Noter.git
    cd noter
